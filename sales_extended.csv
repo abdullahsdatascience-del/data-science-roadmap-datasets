@@ -1,0 +1,6 @@
+SaleID,CustomerID,Product,Quantity,Price
+101,1,Keyboard,2,120
+102,2,Mouse,1,60
+103,3,Monitor,1,850
+104,1,Coffee,3,40
+105,4,Soap,5,10
